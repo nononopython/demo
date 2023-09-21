@@ -1,6 +1,6 @@
 {
   "study" : [
-    {"sb":66}
+    {"sb": 66, "bodys": "somofbeach"}
   ],
   "posts": [
     { "id": 1, "title": "Post 1" },
