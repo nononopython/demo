@@ -1,55 +1,18 @@
 {
 
-  "data": [{
-        "id": 1,
-        "title": "辰华",
-        "bodyd": 1,
-    },
-    {
-        "id": 2,
-        "title": "凰羽",
-        "bodyd": 1,
-    },
-    {
-        "id": 3,
-        "title": "哲恒",
-        "bodyd": 1,
-    },
-    {
-        "id": 4,
-        "title": "剑波",
-        "bodyd": 1,
-    },
-    {
-        "id": 5,
-        "title": "秩选",
-        "bodyd": 1,
-    },
-    {
-        "id": 6,
-        "title": "思翰",
-        "bodyd": 2,
-    },
-    {
-        "id": 7,
-        "title": "璟雯",
-        "bodyd": 1,
-    },
-    {
-        "id": 8,
-        "title": "昕磊",
-        "bodyd": 2,
-    },
-    {
-        "id": 9,
-        "title": "松源",
-        "bodyd": 1,
-    },
-    {
-        "id": 10,
-        "title": "晧宇",
-        "bodyd": 1,
-    }
+  "data": [
+    
+{"id": 1  ,"title": "辰华"  ,"bodyd": 1},
+{"id": 2  ,"title": "凰羽"  ,"bodyd": 1},
+{"id": 3  ,"title": "哲恒"  ,"bodyd": 1},
+{"id": 4  ,"title": "剑波"  ,"bodyd": 1},
+{"id": 5  ,"title": "秩选"  ,"bodyd": 1},
+{"id": 6  ,"title": "思翰"  ,"bodyd": 2},
+{"id": 7  ,"title": "璟雯"  ,"bodyd": 1},
+{"id": 8  ,"title": "昕磊"  ,"bodyd": 2},
+{"id": 9  ,"title": "松源"  ,"bodyd": 1},
+{"id": 10  ,"title": "晧宇"  ,"bodyd": 1}
+
 ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
